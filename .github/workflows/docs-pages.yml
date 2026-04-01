@@ -94,5 +94,5 @@ jobs:
             echo "| Branch | \`${{ needs.build.outputs.branch }}\` |"
             echo "| Commit | \`${{ needs.build.outputs.short_sha }}\` |"
             echo "| Status | ✅ Success |"
-            echo "| URL | [Visit Site](https://photowey.github.io/how-to-ask-ai-well) |"
+            echo "| URL | [Visit Site](https://photowey.github.io/${{ github.event.repository.name }}) |"
           } >> "$GITHUB_STEP_SUMMARY"
