@@ -1,0 +1,34 @@
+.VPDoc {
+  --vp-doc-max-width: 780px;
+}
+
+.vp-doc p,
+.vp-doc li {
+  line-height: 1.78;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  letter-spacing: -0.02em;
+}
+
+.vp-doc blockquote {
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.vp-doc .book-note {
+  padding: 1rem 1.1rem;
+  border-radius: 16px;
+  background: var(--vp-c-brand-soft);
+  border: 1px solid var(--vp-c-divider);
+}
+
+.vp-doc .chapter-pullquote {
+  padding: 1.25rem 1.4rem;
+  margin: 1.5rem 0;
+  border-radius: 18px;
+  background: linear-gradient(135deg, var(--vp-c-brand-soft), var(--vp-c-bg-soft));
+  font-size: 1.05rem;
+}
