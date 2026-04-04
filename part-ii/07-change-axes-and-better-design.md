@@ -88,7 +88,7 @@ Then ask the model to explain how each proposed abstraction reduces future cost 
 
 ## A note from recent research
 
-One useful line of thought behind this book comes from taking AI framing more seriously. A recent paper on trust-based versus fear-based prompting in AI debugging depth<sup><a href="/appendices/sources#source-trust-over-fear-paper">[1]</a></sup> sharpened a simple lesson: structure and framing influence how deeply the model investigates. In design work, that matters just as much. If you ask vaguely, the model optimizes for presentability. If you ask around change axes, the model is more likely to reason around evolution.
+One useful line of thought behind this book comes from taking AI framing more seriously. A recent paper on how trust-based versus fear-based prompting affects AI debugging depth<sup><a href="/appendices/sources#source-trust-over-fear-paper">[1]</a></sup> sharpened a simple lesson: structure and framing influence how deeply the model investigates. In design work, that matters just as much. If you ask vaguely, the model optimizes for presentability. If you ask around change axes, the model is more likely to reason around evolution.
 
 ## Closing thought
 

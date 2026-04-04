@@ -1,6 +1,6 @@
 # 11. From Template to Habit: Turning Good Prompting Into Workflow
 
-At this point, a natural objection appears: this all sounds right, but who has time to write fully structured prompts every day?
+At this point, a natural objection arises: this all sounds right, but who has time to write fully structured prompts every day?
 
 The answer is that you should not write them from scratch every day. The goal is not to become verbose. The goal is to convert good prompting from a burst of discipline into a repeatable workflow.
 

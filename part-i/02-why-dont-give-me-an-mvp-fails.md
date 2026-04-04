@@ -1,6 +1,6 @@
 # 2. Why “Don’t Give Me an MVP” Usually Fails
 
-Many serious AI users eventually reach the same frustrated sentence: “Don’t give me an MVP.”
+Many serious AI users eventually end up saying the same frustrated sentence: “Don’t give me an MVP.”
 
 The sentence sounds sensible. It names a real problem. It is also weak.
 

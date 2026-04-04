@@ -33,7 +33,7 @@ features:
 
 ## About this book
 
-Most people think they have an AI problem when they really have a question-design problem. They ask vaguely, scope loosely, verify weakly, and then blame the model for producing shallow work. This book argues that asking well is not a minor communication trick. It is a working method.
+Most people think they have an AI problem when they really have a question-design problem. They ask vaguely, define scope loosely, verify weakly, and then blame the model for producing shallow work. This book argues that asking well is not a minor communication trick. It is a working method.
 
 This guide is written for a broad audience, but it leans toward technical readers because software work exposes the consequences of bad questions very quickly. When your request is vague, AI does not merely become unhelpful. It becomes narrowly helpful and globally wasteful. It patches the obvious thing, leaves the hidden thing untouched, and gives you the illusion of progress.
 

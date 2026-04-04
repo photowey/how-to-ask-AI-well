@@ -59,7 +59,7 @@ In planning, verification might mean:
 - showing how the recommendation fits the actual constraints
 - identifying assumptions that still need confirmation
 
-## The moral effect of verification
+## The discipline effect of verification
 
 There is also a subtler benefit. Requiring evidence makes both the user and the AI more honest. It weakens the temptation to end a conversation on the first plausible answer. It turns “looks reasonable” into “what proves this?”
 

@@ -2,7 +2,7 @@
 
 Books often pretend they began as clear intentions. This one did not.
 
-It began with a reader noticing discomfort.
+It began with a reader’s unease.
 
 The deeper I worked with AI, the harder it became to believe that disappointing results were always just model failures. Many of them were conversation failures. More precisely, they were work-design failures. The prompts were too loose, the goals too underspecified, the verification too weak, the finish line too vague.
 

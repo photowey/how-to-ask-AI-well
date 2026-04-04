@@ -1,6 +1,6 @@
 # 21. To Be Continued
 
-As a placeholder, Part V currently stops at the **design**: frame, comparison list, and judging criteria. **Hands-on labs** and **case studies** will follow in a later edition: same real task, different prompt structures, outputs you run or read side by side, so the gap between structures becomes lived experience, not only argument.
+As a placeholder, Part V currently stops at the **framework**: experimental frame, comparison list, and judging criteria. **Hands-on labs** and **case studies** will follow in a later edition: the same real task, different prompt structures, and outputs you run yourself or read side by side, so the gap between structures becomes lived experience, not just argument.
 
 A vague ask, a complete-delivery ask, a design-first ask, and a risk-first review ask should not produce the same kind of work. When that difference is visible in the exercises and files, the earlier chapters stop being merely persuasive—they become something you can **reproduce**.
 

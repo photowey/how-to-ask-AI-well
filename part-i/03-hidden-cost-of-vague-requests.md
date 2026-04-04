@@ -1,6 +1,6 @@
 # 3. The Hidden Cost of Vague Requests
 
-Vague requests are costly in a way that cleanly wrong requests are not.
+Vague requests are costly in a way that clearly wrong requests are not.
 
 A clearly bad request often fails quickly. A vague request can fail slowly while appearing useful. That is more dangerous, because it spends the user’s time, trust, and attention before the true gap becomes visible.
 
@@ -36,7 +36,7 @@ That prompt could mean:
 - improve maintainability
 - remove unnecessary features
 
-The word “cleaner” feels precise because it carries an emotional preference. But it is operationally vague. A model may interpret it aesthetically, structurally, or minimally.
+The word “cleaner” feels precise because it carries an aesthetic preference. But it is operationally vague. A model may interpret it aesthetically, structurally, or minimally.
 
 ## Vagueness and hidden problems
 

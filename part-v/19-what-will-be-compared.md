@@ -1,6 +1,6 @@
 # 19. What Will Be Compared
 
-In the forthcoming labs and case studies, each comparison should be deliberate—not a random pair of prompts. The list below is what you will eventually walk through, item by item, in exercises and in write-ups. It targets request structures that people actually use, misuse, or half-use in real work.
+In the forthcoming labs and case studies, each comparison should be deliberate—not a random pair of prompts. The list below is what you will eventually walk through, item by item, in exercises and in write-ups. It targets request structures that people actually use, misuse, or use incompletely in real work.
 
 ## Prompt families to compare
 

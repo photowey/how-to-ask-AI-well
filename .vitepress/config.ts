@@ -80,7 +80,7 @@ const zhSidebar = [
   {
     text: '第一部分：为什么那么多 AI 对话会失败',
     items: [
-      { text: '1. 大多数人其实没有真正发问', link: '/zh/part-i/01-most-people-are-not-really-asking' },
+      { text: '1. 大多数人其实并没有真正提问', link: '/zh/part-i/01-most-people-are-not-really-asking' },
       { text: '2. 为什么“不要给我 MVP”通常没有用', link: '/zh/part-i/02-why-dont-give-me-an-mvp-fails' },
       { text: '3. 模糊请求的隐性成本', link: '/zh/part-i/03-hidden-cost-of-vague-requests' },
     ],
@@ -98,7 +98,7 @@ const zhSidebar = [
     text: '第三部分：构建你的个人提问操作系统',
     items: [
       { text: '8. 一个强请求的八个模块', link: '/zh/part-iii/08-eight-modules-of-a-strong-request' },
-      { text: '9. 可复用的提问模式', link: '/zh/part-iii/09-prompt-patterns-you-can-reuse' },
+      { text: '9. 可复用的提问模板', link: '/zh/part-iii/09-prompt-patterns-you-can-reuse' },
       { text: '10. 会把 AI 拉回浅层工作的反模式', link: '/zh/part-iii/10-anti-patterns-that-create-shallow-work' },
       { text: '11. 从模板到习惯：把好提问变成工作流', link: '/zh/part-iii/11-turning-good-prompting-into-workflow' },
     ],
@@ -114,9 +114,9 @@ const zhSidebar = [
     ],
   },
   {
-    text: '第五部分：实操演练与案例分析（预占位）',
+    text: '第五部分：实操演练与案例分析（暂为占位）',
     items: [
-      { text: '17. 预占位：后续的实操演练与案例分析', link: '/zh/part-v/17-why-this-part-is-not-finished-yet' },
+      { text: '17. 暂为占位：后续的实操演练与案例分析', link: '/zh/part-v/17-why-this-part-is-not-finished-yet' },
       { text: '18. 实验框架', link: '/zh/part-v/18-the-experimental-frame' },
       { text: '19. 将比较什么', link: '/zh/part-v/19-what-will-be-compared' },
       { text: '20. 结果将如何评估', link: '/zh/part-v/20-how-results-will-be-judged' },
@@ -143,7 +143,7 @@ export default defineConfig({
   description: 'A practical, human-centered guide to asking AI better questions and getting deeper results.',
   lang: 'en-US',
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/how-to-ask-AI-well/favicon.svg' }],
   ],
   lastUpdated: true,
   cleanUrls: true,
