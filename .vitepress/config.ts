@@ -185,7 +185,7 @@ export default defineConfig({
       },
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/wuji-labs/nopua' },
+      { icon: 'github', link: 'https://github.com/photowey/how-to-ask-AI-well' },
     ],
     footer: {
       message: 'Written as a practical book, not a prompt cheat sheet.',
