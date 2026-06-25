@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "如何有效向 AI 提问"
   text: "一本关于更清晰提问、更深协作与更好结果的实战指南"
-  tagline: "英文为正文、中文为完整译本。本书面向广泛读者，但尤其适合那些不愿让 AI 只停在浅层交付的技术读者。"
+  tagline: "本书面向广泛读者，但尤其适合那些不愿让 AI 只停在浅层交付的技术读者。"
   actions:
     - theme: brand
       text: 开始阅读
