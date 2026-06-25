@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "How to Ask AI Well"
   text: "A practical guide to clearer prompts, deeper collaboration, and better results"
-  tagline: "An English-first book with a full Chinese edition, written for a broad audience and especially useful for technical readers who want AI to do more than ship shallow MVPs."
+  tagline: "Written for a broad audience, this book is especially valuable for technical readers aiming to leverage AI beyond shipping shallow MVPs."
   actions:
     - theme: brand
       text: Start Reading
